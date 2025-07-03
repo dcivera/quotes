@@ -289,9 +289,9 @@
   {
     "quote": "Never attribute to malice that which can be adequately explained by stupidity.",
     "attribution": "Hanlon’s Razor",
-    "source": "",
-    "notes": "",
-    "references":""
+    "source": "Arthur Bloch (1980). Murphy's Law Book Two: More Reasons Why Things Go Wrong!. Price Stern Sloan. p. 52. ISBN 9780417064505.",
+    "notes": "The adage is attributed to Robert J. Hanlon, according to the book *Murphy's Law Book Two: More Reasons Why Things Go Wrong!* by Arthur Bloch. However, an earlier version was published in 1941 in Robert A. Heinlein's novella, *Logic of Empire*. However, it really was popularized by the Bloch.\\n It's not always true, but like all razors, it captures a pretty good average and helps challenge assumptions.",
+    "references":"[Hanlon's razor - Wikipedia](https://en.wikipedia.org/wiki/Hanlon%27s_razor)"
 },
   {
     "quote": "That which can be asserted without evidence can be dismissed without evidence.",
