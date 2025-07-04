@@ -404,5 +404,26 @@
     "source": "John Cleese during an interview for YouTube.",
     "notes": "It's Cleese's take on the Dunning-Kruger Effect, which states that a person's lack of skill will lead them to overestimate their competence. Hence, those who know nothing think they know everything, while experts in a subject underestimate how much they know because they think what they know is common knowledge.",
     "references":" [John Cleese on Stupidity - YouTube](https://www.youtube.com/watch?v=wvVPdyYeaQU)"
+  },
+  {
+    "quote": "Il y a des gens qui n'auraient jamais été amoureux s'ils n'avaient jamais entendu parler de l'amour.",
+    "attribution": "François duc de La Rochefoucauld",
+    "source": "Réflexions ou sentences et maximes morales, maxime 136",
+    "notes": "The quote is often taken to the extreme. John Searle, an American Philosoper changes that quote in an interview to say that \"very few would fall in love if they never read about it\", but that's not what La Rochefoucauld said. He clearly said that \"some would never have fallen in love had they not read about it\", which seems far truer. It's not a commentary on language and more a realization that we sometimes are attracted by the idea of a thing rather than its reality.",
+    "references":"[Gutenberg Project](https://www.gutenberg.org/cache/epub/14913/pg14913.txt)"
+  },
+  {
+    "quote": "On parle peu quand la vanité ne fait pas parler.",
+    "attribution": "François duc de La Rochefoucauld",
+    "source": "Réflexions ou sentences et maximes morales, maxime 137",
+    "notes": "If it were not for our vanity, we would speak very little about ourselves. It ties in with his next maxim, which states that we would rather say something bad about ourselves than not talk about ourselves at all.",
+    "references":"[Gutenberg Project](https://www.gutenberg.org/cache/epub/14913/pg14913.txt)"
+  },
+  {
+    "quote": "Le refus des louanges est un désir d'être loué deux fois.",
+    "attribution": "François duc de La Rochefoucauld",
+    "source": "Réflexions ou sentences et maximes morales, maxime 149",
+    "notes": "It's the ultimate drive behind false modesty. Instead of saying thank you for a compliment, we refuse it, knowing (consciously or unconsciously) that it will be repeated.",
+    "references":"[Gutenberg Project](https://www.gutenberg.org/cache/epub/14913/pg14913.txt)"
   }
 ]
