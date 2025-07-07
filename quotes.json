@@ -157,7 +157,7 @@
     "quote": "On rencontre sa destinée souvent par des chemins qu’on prend pour l’éviter.",
     "attribution": "Jean de La Fontaine",
     "source": "Livre VIII, fable 15, 1678 – 1679",
-    "notes": "",
+    "notes": "While the most immediate application of this saying is in the archetype of the hero that flees only to realize he was heading toward his destiny all along (Macbeth, Jonah, Oedipus), there is a more practical application in the context of procrastination. Often, our minds lead us astray. We just move away from what we actually want to do, only to find ourselves doing it better later. Our minds sometimes recognize that we need to step away from the task we're focusing on so we can approach it more effectively later. Or, as Kourosh Dini, MD (email sent on July 3, 2025) says, \"avoidance can be a form of recovery.\"",
     "references":""
 },
   {
@@ -425,5 +425,19 @@
     "source": "Réflexions ou sentences et maximes morales, maxime 149",
     "notes": "It's the ultimate drive behind false modesty. Instead of saying thank you for a compliment, we refuse it, knowing (consciously or unconsciously) that it will be repeated.",
     "references":"[Gutenberg Project](https://www.gutenberg.org/cache/epub/14913/pg14913.txt)"
+  },
+  {
+    "quote": "Trust arrives on foot and leaves on horseback.",
+    "attribution": "Dutch proverb",
+    "source": "",
+    "notes": "",
+    "references":"[Trust Arrives on Foot and Leaves on Horseback | by Tim de Rooij | Medium](https://thalein.medium.com/trust-arrives-on-foot-and-leaves-on-horseback-aacde6e69163)"
+},
+  {
+    "quote": "The Lord bless you and keep you;\\n The Lord make His face shine upon you; \\n And be gracious to you;\\n The Lord lift up His countenance upon you,\\n And give you peace.",
+    "attribution": "Numbers 6:24-26",
+    "source": "New King James Version",
+    "notes": "",
+    "references":""
   }
 ]
