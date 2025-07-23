@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "quote": "Don't ask a Coke machine for relationship advice. You might get what you think is an answer, but it's probably not a good answer, or you might just get a Coke. That's what the machine is for.",
     "attribution": "Merlin Mann",
     "source": "Reconcilable Differences, Ep. 222, \"It's Captured My Almonds\" (55:32)",
@@ -7,6 +8,7 @@
     "references":""
 },
   {
+    "id": 2,
     "quote": "The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function.",
     "attribution": "F. Scott Fitzgerald",
     "source": "The Crack-Up, in the essay \"The Crack-Up\", written in 1936",
@@ -14,6 +16,7 @@
     "references":"[The Crack-up - Francis Scott Fitzgerald - Google Books](https://books.google.ca/books/about/The_Crack_up.html?id=B8saLwl-2TEC&redir_esc=y)"
 },
   {
+    "id": 3,
     "quote": "You don’t find out who’s been swimming naked until the tide goes out.",
     "attribution": "Warren Buffett",
     "source": "1994 Annual Meeting – https://buffett.cnbc.com/video/1994/04/25/buffett-you-dont-find-out-whos-been-swimming-naked-until-the-tide-goes-out.html",
@@ -21,6 +24,7 @@
     "references":""
 },
   {
+    "id": 4,
     "quote": "Efficiency unlocks new demand.",
     "attribution": "Jevon's Paradox",
     "source": "",
@@ -28,6 +32,7 @@
     "references":"[Jevons Paradox: A personal perspective - by Tina He](https://fakepixels.substack.com/p/jevons-paradox-a-personal-perspective), [How a 160-Year-Old Economic Paradox Could Predict AI’s Future](https://news.northeastern.edu/2025/02/07/jevons-paradox-ai-future/), [The Coal Question: An Enquiry Concerning the Progress of the Nation, and the ... - William Stanley Jevons - Google Books](https://books.google.ca/books/about/The_Coal_Question.html?id=gAAKAAAAIAAJ&redir_esc=y)"
 },
   {
+    "id": 5,
     "quote": "You don’t need the highest-tech robot to perform 100 % of the task. You just need enough tech to perform 99 % of the task. It’s like asking a PhD Harvard professor to make a sandwich. Optimizing for the last 1 % requires 1000 % effort.",
     "attribution": "Chicken Genius (@pakpakchicken)",
     "source": "https://readwise-assets.s3.amazonaws.com/media/wisereads/articles/humanoid-robotics-a-rare-0-to-/Humanoid_Robotics__A_Rare_0-to-Trillio_BTNjmsT.pdf",
@@ -35,6 +40,7 @@
     "references":""
 },
   {
+    "id": 6,
     "quote": "Perhaps the Bible is like an old violin; you can play any tune you’d like on it.",
     "attribution": "Shawn Boonstra",
     "source": "Sabbath School Lesson, 30 Mar 2025",
@@ -42,6 +48,7 @@
     "references":""
 },
   {
+    "id": 7,
     "quote": "An efficient word-processor shares more characteristics with an IDE than with a layout program.",
     "attribution": "iA Writer Blog",
     "source": "https://ia.net/topics/markdown-and-the-slow-fade-of-the-formatting-fetish",
@@ -49,6 +56,7 @@
     "references":""
 },
   {
+    "id": 8,
     "quote": "Le psychotique pense que deux et deux font cinq, et il en est absolument ravi. Alors que le névrosé, lui, sait que deux et deux font quatre, et il en est désespéré.",
     "attribution": "Pierre Desproges",
     "source": "Réquisitoire contre Daniel Cohn-Bendit, 14 Sep 1982 (5 min 29 s)",
@@ -56,6 +64,7 @@
     "references":""
 },
   {
+    "id": 9,
     "quote": "I'm very puzzled by my country. I wish I understood my country. I can only love it. I can do what I can for it. But I don't pretend to comprehend it.",
     "attribution": "Jorge Luis Borges",
     "source": "Firing Line interview with William F. Buckley Jr., 4 min 04 s",
@@ -63,6 +72,7 @@
     "references":""
 },
   {
+    "id": 10,
     "quote": "A thing of beauty is a joy for ever:",
     "attribution": "John Keats",
     "source": "Endymion – https://www.poetryfoundation.org/poems/44469/endymion-56d2239287ca5",
@@ -70,6 +80,7 @@
     "references":""
 },
   {
+    "id": 11,
     "quote": "How to win an argument with a toddler? You can't. That’s because toddlers don’t understand what an argument is and aren’t interested in having one.",
     "attribution": "Seth Godin",
     "source": "[Seth's Blog](https://seths.blog/2025/04/how-to-win-an-argument-with-a-toddler/)",
@@ -77,6 +88,7 @@
     "references":""
 },
   {
+    "id": 12,
     "quote": "Life is what happens to you while you’re busy making other plans.",
     "attribution": "John Lennon",
     "source": "“Beautiful Boy (Darling Boy)” – Gimme Some Truth, 2 min 16 s",
@@ -84,6 +96,7 @@
     "references":""
 },
   {
+    "id": 13,
     "quote": "My new little manifesto is that folksingers take everything very seriously except for themselves. They talk about social issues, political issues, their country, their society, their lives, their time, their place. But in the whole rock’n’roll milieu, you take nothing seriously, save yourself.",
     "attribution": "Ani DiFranco",
     "source": "SPIN interview – https://www.spin.com/2023/04/righteous-babe-our-1997-ani-difranco-cover-story/",
@@ -91,6 +104,7 @@
     "references":""
 },
   {
+    "id": 14,
     "quote": "If, in your relationship, it's the man who urinates on the pregnancy test, it means you've gone a tiny bit too far in thinking all men and women are equal.",
     "attribution": "Élodie Poux",
     "source": "Émission avec Laurent Baffie, 0 min 40 s",
@@ -98,6 +112,7 @@
     "references":""
 },
   {
+    "id": 15,
     "quote": "The iron rule of politics is that if there are real problems in society and responsible parties don’t deal with them, the irresponsible parties will jump on them.",
     "attribution": "Daniel Schwammenthal",
     "source": "Quoted in Richard V. Reeves, *Of Boys and Men*",
@@ -105,6 +120,7 @@
     "references":""
 },
   {
+    "id": 16,
     "quote": "Let not any one pacify his conscience by the delusion that he can do no harm if he takes no part and forms no opinion. Bad men need nothing more to compass their ends than that good men should look on and do nothing. He is not a good man who, without a protest, allows wrong to be committed in his name and with the means which he helps to supply, because he will not trouble himself to use his mind on the subject.",
     "attribution": "John Stuart Mill",
     "source": "Inaugural Address, University of St Andrews, 1 Feb 1867 (Littell’s *Living Age*, 16 Mar 1867)",
@@ -112,6 +128,7 @@
     "references":""
 },
   {
+    "id": 17,
     "quote": "The axe forgets what the tree remembers.",
     "attribution": "African proverb",
     "source": "G. Fortune, *An Analytical Grammar of Shona*, 1955",
@@ -119,6 +136,7 @@
     "references":""
 },
   {
+    "id": 18,
     "quote": "The days are long, but the years are short.",
     "attribution": "Popular adage",
     "source": "",
@@ -126,6 +144,7 @@
     "references":""
 },
   {
+    "id": 19,
     "quote": "Those who mind don’t matter, and those who matter don’t mind!",
     "attribution": "Popular adage",
     "source": "https://quoteinvestigator.com/2012/12/04/those-who-mind/",
@@ -133,6 +152,7 @@
     "references":""
 },
   {
+    "id": 20,
     "quote": "The Dildo of Consequences Rarely Arrives Lubed.",
     "attribution": "@auntyamerican",
     "source": "Tweet – 6 Jun 2017, https://knowyourmeme.com/memes/the-dildo-of-consequences-rarely-arrives-lubed",
@@ -140,6 +160,7 @@
     "references":""
 },
   {
+    "id": 21,
     "quote": "When someone shows you who they are the first time, believe them.",
     "attribution": "Maya Angelou",
     "source": "Avaneda D. Hobbs, *Dr. Maya Angelou As Seen Through the Eyes of America* (1999), p. 70",
@@ -147,6 +168,7 @@
     "references":""
 },
   {
+    "id": 22,
     "quote": "You can easily judge the character of a man by how he treats those who can do nothing for him.",
     "attribution": "Malcolm S. Forbes",
     "source": "According to [Quote Investigator](https://quoteinvestigator.com/2011/10/28/judge-character/#ef2540bf-792e-43d1-b444-7877e6a9c161), while this quote is often attributed to many people, the earliest recording is from a newspaper article in the Hartford Courant, which cites Forbes as its source.",
@@ -154,6 +176,7 @@
     "references":""
 },
   {
+    "id": 23,
     "quote": "On rencontre sa destinée souvent par des chemins qu’on prend pour l’éviter.",
     "attribution": "Jean de La Fontaine",
     "source": "Livre VIII, fable 15, 1678 – 1679",
@@ -161,6 +184,7 @@
     "references":""
 },
   {
+    "id": 24,
     "quote": "Nous n'écoutons d'instincts que ceux qui sont les nôtres, et ne croyons le mal que quand il est venu.",
     "attribution": "Jean de La Fontaine",
     "source": "Livre I, fable 8, 1668",
@@ -168,6 +192,7 @@
     "references":""
 },
   {
+    "id": 25,
     "quote": "Laissez dire les sots : le savoir a son prix.",
     "attribution": "Jean de La Fontaine",
     "source": "Livre VIII, fable 19, 1678 – 1679",
@@ -175,6 +200,7 @@
     "references":""
 },
   {
+    "id": 26,
     "quote": "La mort ne surprend point le sage : il est toujours prêt à partir.",
     "attribution": "Jean de La Fontaine",
     "source": "Livre VIII, fable 1, 1678 – 1679",
@@ -182,6 +208,7 @@
     "references":""
 },
   {
+    "id": 27,
     "quote": "Rien n'est si dangereux qu'un ignorant ami ; mieux vaudrait un sage ennemi.",
     "attribution": "Jean de La Fontaine",
     "source": "Livre VIII, fable 10, 1678 – 1679",
@@ -189,6 +216,7 @@
     "references":""
 },
   {
+    "id": 28,
     "quote": "Be so good they can't ignore you.",
     "attribution": "Steve Martin",
     "source": "Charlie Rose interview, 0 min 36 s",
@@ -196,6 +224,7 @@
     "references":""
 },
   {
+    "id": 29,
     "quote": "Expectations were like fine pottery. The harder you held them, the more likely they were to crack.",
     "attribution": "Brandon Sanderson",
     "source": "*The Way of Kings & Mistborn Sampler* (2014), p. 48",
@@ -203,6 +232,7 @@
     "references":""
 },
   {
+    "id": 30,
     "quote": "Ultimately, man should not ask what the meaning of his life is, but rather he must recognize that it is he who is asked.",
     "attribution": "Viktor Frankl",
     "source": "*Man’s Search for Meaning*",
@@ -210,6 +240,7 @@
     "references":""
 },
   {
+    "id": 31,
     "quote": "We are what we repeatedly do. Excellence, then, is not an act but a habit.",
     "attribution": "Will Durant",
     "source": "The Story of Philosophy, 1926",
@@ -217,6 +248,7 @@
     "references":"[My favourite quote of all time is a misattribution. | by Caelan Huntress | Mission.org | Medium](https://medium.com/the-mission/my-favourite-quote-of-all-time-is-a-misattribution-66356f22843d), [Aristotle Never Said, \"We are what we repeatedly do. Excellence, then, is not an act, but a habit.\" | by Chris Soschner | ILLUMINATION | Medium](https://medium.com/illumination/aristotle-never-said-we-are-what-we-repeatedly-do-excellence-then-is-not-an-act-but-a-habit-215451129bed), [FACT CHECK: Did Aristotle Say, ‘We Are What We Repeatedly Do’? | Check Your Fact](https://checkyourfact.com/2019/06/26/fact-check-aristotle-excellence-habit-repeatedly-do/)"
 },
   {
+    "id": 32,
     "quote": "I putter about the card catalogue and compose erudite trivialities.",
     "attribution": "Jorge Luis Borges",
     "source": "“Shakespeare’s Memory”",
@@ -224,6 +256,7 @@
     "references":""
 },
   {
+    "id": 33,
     "quote": "But I will eat and drink, and sleep as soft as captain shall: simply the thing I am shall make me live.",
     "attribution": "William Shakespeare",
     "source": "*All’s Well That Ends Well*, Act 4 Scene 3",
@@ -231,6 +264,7 @@
     "references":""
 },
   {
+    "id": 34,
     "quote": "Unaquæque res quantum in se est, in suo esse perseverare conatur. (Everything, in so far as it is in itself, endeavours to persist in its own being.)",
     "attribution": "Baruch Spinoza",
     "source": "*Ethics*, Part 3, Proposition 6",
@@ -238,6 +272,7 @@
     "references":"[The Project Gutenberg E-text of The Ethics, by Benedict de Spinoza](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm), [Conatus - Wikipedia](https://en.wikipedia.org/wiki/Conatus)"
 },
   {
+    "id": 35,
     "quote": "If you speak when angry, you’ll make the best speech you’ll ever regret.",
     "attribution": "Groucho Marx",
     "source": "Eve Starr, “Inside TV”, Jun 1954",
@@ -245,6 +280,7 @@
     "references":""
 },
   {
+    "id": 36,
     "quote": "We are the music-makers, and we are the dreamers of dreams,",
     "attribution": "Arthur O’Shaughnessy",
     "source": "“Ode” (1873)",
@@ -252,6 +288,7 @@
     "references":"[Ode by Arthur O'Shaughnessy - Poem Analysis](https://poemanalysis.com/arthur-oshaughnessy/ode/)"
 },
   {
+    "id": 37,
     "quote": "Anything that can go wrong, will go wrong.",
     "attribution": "Murphy’s Law",
     "source": "",
@@ -259,6 +296,7 @@
     "references":""
 },
   {
+    "id": 38,
     "quote": "If you can write the problem down clearly, you're halfway to solving it.",
     "attribution": "Kidlin’s Law",
     "source": "",
@@ -266,6 +304,7 @@
     "references":""
 },
   {
+    "id": 39,
     "quote": "The best way to achieve a task is to find the best way to do it.",
     "attribution": "Gilbert’s Law",
     "source": "",
@@ -273,6 +312,7 @@
     "references":""
 },
   {
+    "id": 40,
     "quote": "Prioritizing the acquisition of knowledge and intelligence will ultimately lead us to financial success.",
     "attribution": "Wilson’s Law",
     "source": "",
@@ -280,6 +320,7 @@
     "references":""
 },
   {
+    "id": 41,
     "quote": "When it is not necessary to make a decision, it is necessary not to make a decision.",
     "attribution": "Falkland’s Law",
     "source": "",
@@ -287,6 +328,7 @@
     "references":""
 },
   {
+    "id": 42,
     "quote": "Never attribute to malice that which can be adequately explained by stupidity.",
     "attribution": "Hanlon’s Razor",
     "source": "Arthur Bloch (1980). Murphy's Law Book Two: More Reasons Why Things Go Wrong!. Price Stern Sloan. p. 52. ISBN 9780417064505.",
@@ -294,6 +336,7 @@
     "references":"[Hanlon's razor - Wikipedia](https://en.wikipedia.org/wiki/Hanlon%27s_razor)"
 },
   {
+    "id": 43,
     "quote": "That which can be asserted without evidence can be dismissed without evidence.",
     "attribution": "Hitchens’ Razor",
     "source": "",
@@ -301,6 +344,7 @@
     "references":""
 },
   {
+    "id": 44,
     "quote": "Explanations that require fewer unjustified assumptions are more likely to be correct.",
     "attribution": "Occam’s Razor",
     "source": "",
@@ -308,6 +352,7 @@
     "references":""
 },
   {
+    "id": 45,
     "quote": "Progress is impossible without change, and those who cannot change their minds cannot change anything.",
     "attribution": "George Bernard Shaw",
     "source": "",
@@ -315,6 +360,7 @@
     "references":""
 },
   {
+    "id": 46,
     "quote": "To attain your best life and be wise, hold conversations with the dead.",
     "attribution": "Diogenes Laërtius (paraphrase)",
     "source": "*Lives of Eminent Philosophers*, Book VII (Zeno)",
@@ -322,6 +368,7 @@
     "references":""
 },
   {
+    "id": 47,
     "quote": "Never confuse education with intelligence. You can have a PhD and still be an idiot.",
     "attribution": "Anonymous",
     "source": "Often misattributed to Richard Feynman (no primary source)",
@@ -329,6 +376,7 @@
     "references":""
 },
   {
+    "id": 48,
     "quote": "An intelligent person is one who, should a catastrophe strike—say doomsday—he could refound his own civilization.",
     "attribution": "Admiral James Stockdale",
     "source": "PBS interview – https://www.pbs.org/newshour/spc/debatingourdestiny/interviews/stockdale.html",
@@ -336,6 +384,7 @@
     "references":""
 },
   {
+    "id": 49,
     "quote": "Only the paranoid survive.",
     "attribution": "Andrew Grove",
     "source": "*Only the Paranoid Survive* (book title)",
@@ -343,6 +392,7 @@
     "references":""
 },
   {
+    "id": 50,
     "quote": "No amount of regret changes the past, no amount of anxiety changes the future, any amount of gratitude changes the present.",
     "attribution": "Ann Voskamp",
     "source": "Twitter, 14 Jul 2014 – http://twitter.com/AnnVoskamp",
@@ -350,6 +400,7 @@
     "references":""
 },
   {
+    "id": 51,
     "quote": "No amount of regret changes the past, no amount of anxiety changes the future, any amount of gratitude changes the present.",
     "attribution": "Ann Voskamp",
     "source": "Twitter, 14 Jul 2014 – http://twitter.com/AnnVoskamp",
@@ -357,6 +408,7 @@
     "references":""
 },
   {
+    "id": 52,
     "quote": "Si on ne parlait que de ce qu'on a vu, est-ce que les curés parleraient de Dieu ? Est-ce que le pape parlerait du stérilet de ma belle-sœur ?",
     "attribution": "Pierre Desproges",
     "source": "Pierre Desproges à la MJC de Quetigny 1984, YouTube (https://www.youtube.com/watch?v=_BmXrfeefPk), 12:05",
@@ -364,6 +416,7 @@
     "references":""
 },
   {
+    "id": 53,
     "quote": "Où, quitte à tout dépenser jusqu'au dernier écu\nLes gens avaient à coeur d'mourir plus haut qu'leur cul",
     "attribution": "Georges Brassens",
     "source": "Chanson Les funérailles d’antan",
@@ -371,6 +424,7 @@
     "references":""
 },
   {
+    "id": 54,
     "quote": "The test of a work of art is, in the end, our affection for it, not our ability to explain why it is good.",
     "attribution": "Stanley Kubrick",
     "source": "RollingStone Magazine - https://au.rollingstone.com/movies/movie-features/stanley-kubrick-a-clockwork-utopia-35445/",
@@ -378,6 +432,7 @@
     "references":""
 },
   {
+    "id": 55,
     "quote": "The brave man is not only he who overcomes the enemy, but he who is stronger than pleasures. Some men are masters of cities, but are enslaved to women.",
     "attribution": "Democritus",
     "source": "Ancilla to the Pre-Socratic Philosophers, Kathleen Freeman (1948), p. 243",
@@ -385,6 +440,7 @@
     "references":""
   },
   {
+    "id": 56,
     "quote": "At sea level, water boils at 100 degrees C. (...) It turns out that water this hot makes lousy coffee. (...) Just because we can send more emails, hustle a bit harder, or run the machine until it is at capacity doesn’t mean we should.",
     "attribution": "Seth Godin",
     "source": "[Seth's Blog](https://seths.blog/2025/06/as-hot-as-possible/)",
@@ -392,6 +448,7 @@
     "references":""
   },
   {
+    "id": 57,
     "quote": "In the long run men hit only what they aim at. Therefore, though they should fail immediately, they had better aim at something high.",
     "attribution": "Henry David Thoreau",
     "source": "Walden or, Life in the Woods",
@@ -399,6 +456,7 @@
     "references":"[Gutenberg Project](https://www.gutenberg.org/files/205/205-h/205-h.htm)"
   },
   {
+    "id": 58,
     "quote": "If you are very, very stupid, how can you possibly realize you are very, very stupid?",
     "attribution": "John Cleese",
     "source": "John Cleese during an interview for YouTube.",
@@ -406,6 +464,7 @@
     "references":" [John Cleese on Stupidity - YouTube](https://www.youtube.com/watch?v=wvVPdyYeaQU)"
   },
   {
+    "id": 59,
     "quote": "Il y a des gens qui n'auraient jamais été amoureux s'ils n'avaient jamais entendu parler de l'amour.",
     "attribution": "François duc de La Rochefoucauld",
     "source": "Réflexions ou sentences et maximes morales, maxime 136",
@@ -413,6 +472,7 @@
     "references":"[Gutenberg Project](https://www.gutenberg.org/cache/epub/14913/pg14913.txt)"
   },
   {
+    "id": 60,
     "quote": "On parle peu quand la vanité ne fait pas parler.",
     "attribution": "François duc de La Rochefoucauld",
     "source": "Réflexions ou sentences et maximes morales, maxime 137",
@@ -420,6 +480,7 @@
     "references":"[Gutenberg Project](https://www.gutenberg.org/cache/epub/14913/pg14913.txt)"
   },
   {
+    "id": 61,
     "quote": "Le refus des louanges est un désir d'être loué deux fois.",
     "attribution": "François duc de La Rochefoucauld",
     "source": "Réflexions ou sentences et maximes morales, maxime 149",
@@ -427,6 +488,7 @@
     "references":"[Gutenberg Project](https://www.gutenberg.org/cache/epub/14913/pg14913.txt)"
   },
   {
+    "id": 62,
     "quote": "Trust arrives on foot and leaves on horseback.",
     "attribution": "Dutch proverb",
     "source": "",
@@ -434,6 +496,7 @@
     "references":"[Trust Arrives on Foot and Leaves on Horseback | by Tim de Rooij | Medium](https://thalein.medium.com/trust-arrives-on-foot-and-leaves-on-horseback-aacde6e69163)"
 },
   {
+    "id": 63,
     "quote": "The Lord bless you and keep you;\\n The Lord make His face shine upon you; \\n And be gracious to you;\\n The Lord lift up His countenance upon you,\\n And give you peace.",
     "attribution": "Numbers 6:24-26",
     "source": "New King James Version",
@@ -441,6 +504,7 @@
     "references":""
   },
   {
+    "id": 64,
     "quote": "Quand vous citez un texte con, n'oubliez pas le contexte.",
     "attribution": "Jacques Prévert",
     "source": "There are no definitive sources. It's just very commonly attributed to him.",
@@ -448,6 +512,7 @@
     "references":"[La création des jeux de mots et des bons mots - Google Books](https://www.google.ca/books/edition/La_cr%C3%A9ation_des_jeux_de_mots_et_des_bon/ANsoEAAAQBAJ?hl=en&gbpv=1&dq=%22Quand+vous+citez+un+texte+con,+n%27oubliez+pas+le+contexte.%22&pg=PA157&printsec=frontcover), [Pitié pour le français - Google Books](https://www.google.ca/books/edition/Piti%C3%A9_pour_le_fran%C3%A7ais/Ck4FAQAAIAAJ)"
   },
   {
+    "id": 65,
     "quote": "Quand on invente le bateau, on invente aussi le naufrage ... Chaque technologie porte en elle sa propre négativité, qui s’invente en même temps que le progrès technique.",
     "attribution": "Paul Virilio",
     "source": "Cybermonde, la politique du pire de Paul Virilio, Paris, Textuel, « Conversations pour demain, 1996",
@@ -455,6 +520,7 @@
     "references":"[Paul Virilio - Wikiquote](https://en.m.wikiquote.org/wiki/Paul_Virilio), [«L’humanité est comme une voiture lancée à pleine vitesse»: penser l’accélération du monde avec Paul Virilio](https://www.lefigaro.fr/vox/culture/l-humanite-est-comme-une-voiture-lancee-a-pleine-vitesse-penser-l-acceleration-du-monde-avec-paul-virilio-20231110), [SXSW2024 : L’IA, la nouvelle culture de masse - Méta-media | La révolution de l'information](https://www.meta-media.fr/2024/03/17/sxsw2024-lia-la-nouvelle-culture-de-masse.html)"
   },
   {
+    "id": 66,
     "quote": "False face must hide what the false heart doth know.",
     "attribution": "William Shakespeare",
     "source": "Macbeth, Act 1, Scene 7",
@@ -462,6 +528,7 @@
     "references":"[Macbeth | Act 1, Scene 7](https://myshakespeare.com/macbeth/act-1-scene-7)"
   },
   {
+    "id": 67,
     "quote": "Entertainment isn’t just about you being entertained. It’s about what you are willing to entertain.",
     "attribution": "Edward Albee",
     "source": "Apocryphal saying as recounted by David Adjmi during his interview by Stephen Dubner in Freakonomics, episode 641",
@@ -469,6 +536,7 @@
     "references":"[What Does It Cost to Lead a Creative Life? - Freakonomics](https://freakonomics.com/podcast/what-does-it-cost-to-lead-a-creative-life/)"
   },
   {
+    "id": 68,
     "quote": "Man is most nearly himself when he achieves the seriousness of a child at play.",
     "attribution": "Heraclitus of Ephesus",
     "source": "The quote is attributed to Heraclitus, but there are no definitive sources.",
@@ -476,6 +544,7 @@
     "references":"[Quotations from Heraclitus | WIST Quotations](https://wist.info/author/heraclitus/)"
   },
   {
+    "id": 69,
     "quote": "Our envy lasts longer than the happiness of those we envy.",
     "attribution": "Heraclitus of Ephesus",
     "source": "The quote is attributed to Heraclitus, but there are no definitive sources.",
