@@ -586,9 +586,17 @@
   {
     "id": 74,    
     "quote": "To be a philosopher is not merely to have subtle thoughts, nor even to found a school, but so to love wisdom as to live according to its dictates, a life of simplicity, independence, magnanimity, and trust. It is to solve some of the problems of life, not only theoretically, but practically.",
-    "attribution": "Henry David Thoreau",
+    "attribution": "Henry Thoreau",
     "source": "Thoreau, Henry David. Walden (p. 6). (Function). Kindle Edition.",
     "notes": "",
+    "references":""
+  },
+  {
+    "id": 75,    
+    "quote": "[B]eware of all enterprises that require new clothes, and not rather a new wearer of clothes.",
+    "attribution": "Henry Thoreau",
+    "source": "Thoreau, Henry David. Walden (p. 11). (Function). Kindle Edition.",
+    "notes": "[August 14, 2025] I love how Thoreau adds\\n >\"Perhaps we should never procure a new suit, however ragged or dirty the old, until we have so conducted, so enterprised or sailed in some way, that we feel like new men in the old, and that to retain it would be like keeping new wine in old bottles.\"\\n Let the objective of men to be renewed inwardly before any outward update.",
     "references":""
   }
 ]
