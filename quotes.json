@@ -604,7 +604,7 @@
     "quote": "It is not down on any map; true places never are",
     "attribution": "Herman Melville",
     "source": "Moby Dick, Chapter 12",
-    "notes": "[August 26, 2025] The previous sentence reads \"Queequeg was a native of Rokovoko, an island far away to the West and South. It is not down in any map; true places never are.\" The real places are not a geographical location, but where we meet others, find meaning, recollect a deep and impactful memory. It's a testament that the intangible has a much deeper impact on our lives.",
+    "notes": "[August 26, 2025] The previous sentence reads, >\"Queequeg was a native of Rokovoko, an island far away to the West and South. It is not down in any map; true places never are.\" The real places are not a geographical location, but where we meet others, find meaning, recollect a deep and impactful memory. It's a testament that the intangible has a much deeper impact on our lives.",
     "references":"[Moby Dick](http://linkwarden.civera.ca:3000/preserved/29?format=3), [It is not down on any map; true places never are - Herman Melville - Quotes Of The Owl](http://linkwarden.civera.ca:3000/preserved/30?format=3)"
   },
   {
@@ -614,5 +614,13 @@
     "source": "Moby Dick, Chapter 33",
     "notes": "[August 26, 2025] The work that really matters must be passed on from generation to generation.",
     "references":"[Moby Dick](http://linkwarden.civera.ca:3000/preserved/29?format=3)"
+  },
+  {
+    "id": 78,    
+    "quote": "Beauty makes promises that beauty cant keep.",
+    "attribution": "Cormac McCarthy",
+    "source": "The Passenger. 2022. p. 180. Kindle Edition.",
+    "notes": "The lack of punctuation on \"cant\" is on purpose. Bobby Western, the main character, is talking with his grandmother about the past. Shes reminiscing about \"wartime \" [the Second World War], and how \"a lot of young people got married that might of waited otherwise. He [Western's father] liked pretty women. And she [Western's mother] was the prettiest.\" Then the grandmother explains how beauty served neither of them well.",
+    "references":""
   }
 ]
