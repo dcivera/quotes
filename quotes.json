@@ -585,10 +585,10 @@
   },
   {
     "id": 74,    
-    "quote": "To be a philosopher is not merely to have subtle thoughts, nor even to found a school, but so to love wisdom as to live according to its dictates, a life of simplicity, independence, magnanimity, and trust. It is to solve some of the problems of life, not only theoretically, but practically.",
+    "quote": "To be a philosopher is not merely to have subtle thoughts, (...) but so to love wisdom as to live according to its dictates, a life of simplicity, independence, magnanimity, and trust. ",
     "attribution": "Henry Thoreau",
     "source": "Thoreau, Henry David. Walden (p. 6). (Function). Kindle Edition.",
-    "notes": "",
+    "notes": "The full quote is >\"To be a philosopher is not merely to have subtle thoughts, nor even to found a school, but so to love wisdom as to live according to its dictates, a life of simplicity, independence, magnanimity, and trust. It is to solve some of the problems of life, not only theoretically, but practically.\"",
     "references":""
   },
   {
@@ -670,5 +670,13 @@
     "source": "The Vanity of Existence. The Essays Of Arthur Schopenhauer: Studies In Pessimism. 1913. Translated by T. Bailey Saunders.",
     "notes": "Here, Schopenhauer talks about the fleeting life of man that is never happy, always looks for something more, \"seldom attains his goal\", is disappointed if he does, and ends in death no matter what. It's a great characterization of pessimism.",
     "references":"[The Essays of Arthur Schopenhauer: Studies in Pessimism, by Arthur Schopenhauer](http://linkwarden.civera.ca:3000/preserved/31?format=4)"
+  },
+  {
+    "id": 85,    
+    "quote": "To be a philosopher is not merely to have subtle thoughts(...). It is to solve some of the problems of life, not only theoretically, but practically.",
+    "attribution": "Henry Thoreau",
+    "source": "Thoreau, Henry David. Walden (p. 6). (Function). Kindle Edition.",
+    "notes": "The full quote is >\"To be a philosopher is not merely to have subtle thoughts, nor even to found a school, but so to love wisdom as to live according to its dictates, a life of simplicity, independence, magnanimity, and trust. It is to solve some of the problems of life, not only theoretically, but practically.\"",
+    "references":""
   }
 ]
