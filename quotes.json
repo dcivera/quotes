@@ -796,7 +796,7 @@
     "quote": "Use every man after his desert, and who should ‘scape whipping?",
     "attribution": "William Shakespeare",
     "source": "Hamlet, Act II, Scene 2, Line 555.",
-    "notes": "[November 14, 2025] In Mourning and Melancholia, Sigmund Freud, establishes that the depressive state leads a person to a brutal honesty about themselves that would make others think he is ill. He then quote this line from Hamlet and may be implying that there's truth in realizing that if we all got what we deserved, we all would get the whip.",
+    "notes": "[November 14, 2025] In Mourning and Melancholia, Sigmund Freud establishes that the depressive state leads a person to a brutal honesty about themselves that would make others think he is ill. He then quotes this line from Hamlet and may be implying that there's truth in realizing that if we all got what we deserved, we all would get the whip.",
     "references":"[Mourning and Melancholia](http://linkwarden.civera.ca:3000/preserved/35?format=2)"
   },
   {
@@ -822,5 +822,13 @@
     "source": "The Odyssey",
     "notes": "",
     "references":"[The Odyssey by Homer](http://linkwarden.civera.ca:3000/preserved/42?format=3)"
+  },
+  {
+    "id": 104,    
+    "quote": "Poets are not to blame for how things are;",
+    "attribution": "Homer",
+    "source": "The Odyssey",
+    "notes": "This is from the Emily Wilson translation. Page 116. Verse 349. (Kindle)",
+    "references":""
   }
 ]
