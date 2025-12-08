@@ -759,84 +759,92 @@
     "notes": "[November 6, 2025]The full quote is \"Style is a very simple matter; it is all rhythm. Once you get that, you can’t use the wrong words. But on the other hand here am I sitting after half the morning, crammed with ideas, and visions, and so on, and can’t dislodge them, for lack of the right rhythm. Now this is very profound, what rhythm is, and goes far deeper than words. A sight, an emotion, creates this wave in the mind, long before it makes words to fit it; and in writing (such is my present belief) one has to recapture this, and set this working (which has nothing apparently to do with words) and then, as it breaks and tumbles in the mind, it makes words to fit it: But no doubt I shall think differently next year.\"",
     "references":"[The letters of Virginia Woolf : volume III, 1923-1928](https://archive.org/details/lettersofvirgini00nico/lettersofvirgini00nico)"
   },
-  {
-    "id": 96,    
-    "quote": "Style ought to prove that one believes in an idea; not only that one thinks it but also feels it.",
-    "attribution": "Lou Andreas-Salomé (re: Nietzsche)",
-    "source": "Nietzsche. Black Swan Books. 1988. Friedrich Nietzsche in seinen Werken (Original Title).",
-    "notes": "[November 6, 2025]This is commandment seven under the ten commandments a school of style.",
-    "references":""
-  },
-  {
-    "id": 97,    
-    "quote": "The more abstract a truth which one wishes to teach, the more one must first entice the senses.",
-    "attribution": "Lou Andreas-Salomé (re: Nietzsche)",
-    "source": "Nietzsche. Black Swan Books. 1988. Friedrich Nietzsche in seinen Werken (Original Title).",
-    "notes": "[November 6, 2025]This is commandment eight under the ten commandments a school of style. It reminds me of a lesson learned playing Dungeons and Dragons. When setting a story, the dungeon master should call up two or three senses to make the story more impactful in the minds of the players.",
-    "references":""
-  },
-  {
-    "id": 98,    
-    "quote": "We only wonder why a man has to be ill before he can be accessible to a truth of this kind.",
-    "attribution": "Sigmund Freud",
-    "source": "Mourning and Melancholia, in The Standard Edition of the Complete Psychological Works of Sigmund Freud. Volume XIV (1914-1916). On the History of the Psycho-Analytic Movement. Papers on Metapsychology and Other Works.",
-    "notes": "[November 12, 2025]The original quote is \"When in his heightened selt-criticism he describes himself as petty, egoistic dishonest, lacking in independence, one whose sole aim has beer to hide the weaknesses of his own nature, it may be, so far as we know, that he has come pretty near to understanding him-self; we only wonder why a man has to be ill before he can be accessible to a truth of this kind.\" Freud marvels that it sometimes takes a man to fall deeply ill psychologically to be truly honest about who he really is.",
-    "references":"[Mourning and Melancholia](http://linkwarden.civera.ca:3000/preserved/35?format=2)"
-  },
-  {
-    "id": 99,    
-    "quote": "[O]ne is easily inclined, especially in young years, to greatly overestimate the pace at which decisions arrive.",
-    "attribution": "Franz Kafka",
-    "source": "A Little Woman, in A Hunger Artist (p. 13). (Function). Kindle Edition.",
-    "notes": "[November 14, 2025] It seems \"A Little Woman\" is potentially based on Kafka's landlord when he \"Berlin-Steglitz with Dora Dymant\" (see Wikipedia reference). It has similar themes to those of The Trial, such as the vagueness of life's circumstances and how it can drive one mad or obsessive.",
-    "references":"[A Little Woman - Wikipedia](http://linkwarden.civera.ca:3000/preserved/39?format=4)\n [A Little Woman, Franz Kafka – The Beauty and Her Reads](http://linkwarden.civera.ca:3000/preserved/38?format=4)"
-  },
-  {
-    "id": 100,    
-    "quote": "Use every man after his desert, and who should ‘scape whipping?",
-    "attribution": "William Shakespeare",
-    "source": "Hamlet, Act II, Scene 2, Line 555.",
-    "notes": "[November 14, 2025] In Mourning and Melancholia, Sigmund Freud establishes that the depressive state leads a person to a brutal honesty about themselves that would make others think he is ill. He then quotes this line from Hamlet and may be implying that there's truth in realizing that if we all got what we deserved, we all would get the whip.",
-    "references":"[Mourning and Melancholia](http://linkwarden.civera.ca:3000/preserved/35?format=2)"
-  },
-  {
-    "id": 101,    
-    "quote": "Knowledge consists of knowing that a tomato is a fruit, and wisdom consists of not putting it in a fruit salad.",
-    "attribution": "Miles Kington",
-    "source": "\"Heading for a sticky end\". The Independent. March 28, 2003.",
-    "notes": "",
-    "references":"[Heading for a sticky end | The Independent](http://linkwarden.civera.ca:3000/preserved/40?format=3)"
-  },
-  {
-    "id": 102,    
-    "quote": "Wise men speak when they have something to say, fools speak because they have to say something",
-    "attribution": "Unknown",
-    "source": "",
-    "notes": "[November 19, 2025] Often wrongly attributed to Plato or Aristotle.",
-    "references":"[Language Log » Did Plato say this?](http://linkwarden.civera.ca:3000/preserved/41?format=3)"
-  },
-  {
-    "id": 103,    
-    "quote": "See now, how men lay blame upon us gods for what is after all nothing but their own folly.",
-    "attribution": "Homer",
-    "source": "The Odyssey",
-    "notes": "",
-    "references":"[The Odyssey by Homer](http://linkwarden.civera.ca:3000/preserved/42?format=3)"
-  },
-  {
-    "id": 104,    
-    "quote": "Poets are not to blame for how things are;",
-    "attribution": "Homer",
-    "source": "The Odyssey",
-    "notes": "This is from the Emily Wilson translation. Page 116. Verse 349. (Kindle)",
-    "references":""
-  } ,
-  {
-    "id": 105,    
-    "quote": "A gentle answer turns away wrath, but a harsh word stirs up anger.",
-    "attribution": "Proverbs 15:1",
-    "source": "",
-    "notes": "",
-    "references":""
-  }
+    {
+      "id": 96,    
+      "quote": "Style ought to prove that one believes in an idea; not only that one thinks it but also feels it.",
+      "attribution": "Lou Andreas-Salomé (re: Nietzsche)",
+      "source": "Nietzsche. Black Swan Books. 1988. Friedrich Nietzsche in seinen Werken (Original Title).",
+      "notes": "[November 6, 2025]This is commandment seven under the ten commandments a school of style.",
+      "references":""
+    },
+    {
+      "id": 97,    
+      "quote": "The more abstract a truth which one wishes to teach, the more one must first entice the senses.",
+      "attribution": "Lou Andreas-Salomé (re: Nietzsche)",
+      "source": "Nietzsche. Black Swan Books. 1988. Friedrich Nietzsche in seinen Werken (Original Title).",
+      "notes": "[November 6, 2025]This is commandment eight under the ten commandments a school of style. It reminds me of a lesson learned playing Dungeons and Dragons. When setting a story, the dungeon master should call up two or three senses to make the story more impactful in the minds of the players.",
+      "references":""
+    },
+    {
+      "id": 98,    
+      "quote": "We only wonder why a man has to be ill before he can be accessible to a truth of this kind.",
+      "attribution": "Sigmund Freud",
+      "source": "Mourning and Melancholia, in The Standard Edition of the Complete Psychological Works of Sigmund Freud. Volume XIV (1914-1916). On the History of the Psycho-Analytic Movement. Papers on Metapsychology and Other Works.",
+      "notes": "[November 12, 2025]The original quote is \"When in his heightened selt-criticism he describes himself as petty, egoistic dishonest, lacking in independence, one whose sole aim has beer to hide the weaknesses of his own nature, it may be, so far as we know, that he has come pretty near to understanding him-self; we only wonder why a man has to be ill before he can be accessible to a truth of this kind.\" Freud marvels that it sometimes takes a man to fall deeply ill psychologically to be truly honest about who he really is.",
+      "references":"[Mourning and Melancholia](http://linkwarden.civera.ca:3000/preserved/35?format=2)"
+    },
+    {
+      "id": 99,    
+      "quote": "[O]ne is easily inclined, especially in young years, to greatly overestimate the pace at which decisions arrive.",
+      "attribution": "Franz Kafka",
+      "source": "A Little Woman, in A Hunger Artist (p. 13). (Function). Kindle Edition.",
+      "notes": "[November 14, 2025] It seems \"A Little Woman\" is potentially based on Kafka's landlord when he \"Berlin-Steglitz with Dora Dymant\" (see Wikipedia reference). It has similar themes to those of The Trial, such as the vagueness of life's circumstances and how it can drive one mad or obsessive.",
+      "references":"[A Little Woman - Wikipedia](http://linkwarden.civera.ca:3000/preserved/39?format=4)\n [A Little Woman, Franz Kafka – The Beauty and Her Reads](http://linkwarden.civera.ca:3000/preserved/38?format=4)"
+    },
+    {
+      "id": 100,    
+      "quote": "Use every man after his desert, and who should ‘scape whipping?",
+      "attribution": "William Shakespeare",
+      "source": "Hamlet, Act II, Scene 2, Line 555.",
+      "notes": "[November 14, 2025] In Mourning and Melancholia, Sigmund Freud establishes that the depressive state leads a person to a brutal honesty about themselves that would make others think he is ill. He then quotes this line from Hamlet and may be implying that there's truth in realizing that if we all got what we deserved, we all would get the whip.",
+      "references":"[Mourning and Melancholia](http://linkwarden.civera.ca:3000/preserved/35?format=2)"
+    },
+    {
+      "id": 101,    
+      "quote": "Knowledge consists of knowing that a tomato is a fruit, and wisdom consists of not putting it in a fruit salad.",
+      "attribution": "Miles Kington",
+      "source": "\"Heading for a sticky end\". The Independent. March 28, 2003.",
+      "notes": "",
+      "references":"[Heading for a sticky end | The Independent](http://linkwarden.civera.ca:3000/preserved/40?format=3)"
+    },
+    {
+      "id": 102,    
+      "quote": "Wise men speak when they have something to say, fools speak because they have to say something",
+      "attribution": "Unknown",
+      "source": "",
+      "notes": "[November 19, 2025] Often wrongly attributed to Plato or Aristotle.",
+      "references":"[Language Log - Did Plato say this?](http://linkwarden.civera.ca:3000/preserved/41?format=3)"
+    },
+      {
+        "id": 103,    
+        "quote": "See now, how men lay blame upon us gods for what is after all nothing but their own folly.",
+        "attribution": "Homer",
+        "source": "The Odyssey",
+        "notes": "",
+        "references":"[The Odyssey by Homer](http://linkwarden.civera.ca:3000/preserved/42?format=3)"
+      },
+      {
+        "id": 104,    
+        "quote": "Poets are not to blame for how things are;",
+        "attribution": "Homer",
+        "source": "The Odyssey",
+        "notes": "This is from the Emily Wilson translation. Page 116. Verse 349. (Kindle)",
+        "references":""
+      },
+      {
+        "id": 105,    
+        "quote": "A gentle answer turns away wrath, but a harsh word stirs up anger.",
+        "attribution": "Proverbs 15:1",
+        "source": "",
+        "notes": "",
+        "references":""
+      },
+      {
+        "id": 106,    
+        "quote": "Cloquet hated reality but realized it was still the only place to get a good steak.",
+        "attribution": "Woody Allen",
+        "source": "The Condemned. The New Yorker. November 14, 1977.",
+        "notes": "[December 8, 2025] The quote is often wrongly attributed to Groucho Marx, but there are no records of him ever saying something like that.\n [December 8, 2025], In the introduction to the book \"Reclaiming art in the Age of Article\" by Martel, Donna Tartt uses this quote to talk about \"art as a vehicle for putting in touch with the Real\". It's not about realism, or this reality that allows you to get a steak, but \"to what Walter Benjamin called \"the true surrealist face of existence.\" (Martel, J.F. Reclaiming Art in the Age of Artifice (p. xv). Kindle Edition.) But there is something to be said from this quote about the reality that transcends the art, just like art transcends reality.",
+        "references":"[The Condemned | The New Yorker](http://linkwarden.civera.ca:3000/preserved/46?format=3)\n [Quote Origin: Cloquet Hated Reality But Realized It Was Still the Only Place to Get a Good Steak – Quote Investigator](http://linkwarden.civera.ca:3000/preserved/47?format=4)"
+      }
 ]
