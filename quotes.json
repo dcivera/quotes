@@ -433,10 +433,10 @@
   },
   {
     "id": 55,
-    "quote": "At sea level, water boils at 100 degrees C. (...) It turns out that water this hot makes lousy coffee. (...) Just because we can send more emails, hustle a bit harder, or run the machine until it is at capacity doesn’t mean we should.",
+    "quote": "[A]n amp turned up to 11 doesn’t sound that good. (...) Just because we can send more emails (...) doesn’t mean we should.",
     "attribution": "Seth Godin",
     "source": "[Seth's Blog](https://seths.blog/2025/06/as-hot-as-possible/)",
-    "notes": "This week is particularly intense. But before adding so many more responsabilities, I should ask my self if it's wise.",
+    "notes": "Here's the whole quote: \"At sea level, water boils at 100 degrees C. It doesn’t matter how much more heat you use, steam is what you get.\\nIt turns out that water this hot makes lousy coffee. Tea too.\\nAnd an amp turned up to 11 doesn’t sound that good.\\nJust because we can send more emails, hustle a bit harder or run the machine until it is at capacity doesn’t mean we should.\"\\nThis week is particularly intense. But before adding so many more responsibilities, I should ask myself if it's wise.",
     "references": ""
   },
   {
@@ -867,8 +867,16 @@
     "id": 109,    
     "quote": "A camel is a horse designed by a committee.",
     "attribution": "Unknown",
-    "source":"[Quote Origin: A Camel Is a Horse That Was Designed by a Committee – Quote Investigator®](https://quoteinvestigator.com/2023/09/22/horse-camel/)",
+    "source":"[Quote Origin: A Camel Is a Horse That Was Designed by a Committee – Quote Investigator®](http://linkwarden.civera.ca:3000/preserved/53?format=4)",
     "notes": "The earliest reference to this quote is attributed to a certain T. R. Quaife. There seems to be no information on him or her. He didn't mention \"horse\", but that a \"camel looks like something put together by a committee\".",
     "references":""
-    }
+    },
+  {
+    "id": 110,    
+    "quote": "hope your road is a long one,\\nfull of adventure, full of discovery.",
+    "attribution": "Constantine P. Cavafy",
+    "source": "Ithaka, \"The City\" from C.P. Cavafy: Collected Poems. Translated by Edmund Keeley and Philip Sherrard. Translation Copyright © 1975, 1992 by Edmund Keeley and Philip Sherrard. Reproduced with permission of Princeton University Press.",
+    "notes": "",
+    "references":"[Ithaka | The Poetry Foundation](http://linkwarden.civera.ca:3000/preserved/55?format=4)"
+  }
 ]
