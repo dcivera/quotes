@@ -902,5 +902,29 @@
     "source": "",
     "notes": "",
     "references":""
+  },
+  {
+    "id": 114,    
+    "quote": "The tendency of people with low ability in a specific area to give overly positive assessments of this ability.",
+    "attribution": "Dunning-Kruger Effect",
+    "source": "",
+    "notes": "",
+    "references":""
+  },
+  {
+    "id": 115,    
+    "quote": "Except in the austere pages of history, memorable events go unaccompanied by memorable phrases.",
+    "attribution": "Jorge Luis Borges",
+    "source": "Collected Fictions. Borges, Jorge Luis. Huley, A (Translation). 1998. Viking. Page 415.",
+    "notes": "",
+    "references":"(Collected Fictions - Jorge Luis Borges)[http://linkwarden.civera.ca:3000/preserved/69?format=2]"
+  },
+  {
+    "id": 116,    
+    "quote": "America, hobbled by the superstition of democracy, can't make up its mind to be an empire.",
+    "attribution": "Jorge Luis Borges",
+        "source": "Collected Fictions. Borges, Jorge Luis. Huley, A (Translation). 1998. Viking. Page 413.",
+        "notes": "",
+        "references":"(Collected Fictions - Jorge Luis Borges)[http://linkwarden.civera.ca:3000/preserved/69?format=2]"
   }
 ]
